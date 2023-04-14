@@ -1,0 +1,3 @@
+[submodule "benchmarks/secure-code-game"]
+	path = benchmarks/secure-code-game
+	url = git@github.com:heryxpc/secure-code-game.git
